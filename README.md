@@ -79,6 +79,4 @@ A perfect blend of real-world data challenges, dashboarding, and business impact
 
 ---
 
-## 📎 Project Preview
-
-🔗 [Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjI2YzkyNjgtMWZlYS00M2YzLWI1MTktOGZhNjc2ODMwNzQ2IiwidCI6IjRiZmVmNmJlLTJlN2ItNDc1My1iY2Y5LTAzNGRiZDkzZGFjMyJ9)
+## 📎 [Project Preview](https://app.powerbi.com/view?r=eyJrIjoiZjI2YzkyNjgtMWZlYS00M2YzLWI1MTktOGZhNjc2ODMwNzQ2IiwidCI6IjRiZmVmNmJlLTJlN2ItNDc1My1iY2Y5LTAzNGRiZDkzZGFjMyJ9)
