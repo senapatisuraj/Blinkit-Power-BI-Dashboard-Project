@@ -51,10 +51,11 @@ Blinkit, a fast-paced quick-commerce platform, delivers groceries and essentials
 - **Category-wise Stock**: Availability, damaged stock, and sales volume.
 - **Stock Quality Overview**: Gauge charts for usable vs damaged stock.
 
-### Marketing Page
+### 📢 Marketing Page
 
 - **Acquisition Channels**: App, Email, SMS, and Social Media share.
 - **Annual Marketing Summary**: Impressions, revenue, clicks, conversions, spend & ROAS.
+- 🔗 [View Dashboard on Power BI](https://app.powerbi.com/links/Z05BtSbuBt?ctid=4bfef6be-2e7b-4753-bcf9-034dbd93dac3&pbi_source=linkShare&bookmarkGuid=ef983cd4-134d-4646-9347-87d2cfc9f63e)
 
 ---
 
