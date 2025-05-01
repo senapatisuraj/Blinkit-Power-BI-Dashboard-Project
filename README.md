@@ -55,8 +55,6 @@ Blinkit, a fast-paced quick-commerce platform, delivers groceries and essentials
 
 - **Acquisition Channels**: App, Email, SMS, and Social Media share.
 - **Annual Marketing Summary**: Impressions, revenue, clicks, conversions, spend & ROAS.
-- 🔗 [View Dashboard on Power BI][(https://app.powerbi.com/links/Z05BtSbuBt?ctid=4bfef6be-2e7b-4753-bcf9-034dbd93dac3&pbi_source=linkShare&bookmarkGuid=ef983cd4-134d-4646-9347-87d2cfc9f63e)](https://app.powerbi.com/links/Z05BtSbuBt?ctid=4bfef6be-2e7b-4753-bcf9-034dbd93dac3&pbi_source=linkShare&bookmarkGuid=a5e49819-94af-4a22-81e4-7e9ce3513da4)
-
 ---
 
 ## Business Impact
